@@ -1,1 +1,28 @@
+<<!DOCTYPE html>
+<html>
+<head>
+<title>The House</title>
+<style>
+marquee,h2,h1 {
+    font-family:Courier;
+    color:red;
+}
+body {
+    background-image:url(https://media.istockphoto.com/id/1169495140/photo/the-surface-of-the-lava-background.jpg?s=612x612&w=0&k=20&c=SmmEexArJ-2BKmPgDxC5wCA5AWzkNQwzJg2sulwHFss=) ;
+    
+}
+.doors {
+    height:100px;
+    width:100px;
+}
+#top {
+    font-size:20px;
+    font-weight:bold;
+}
+</style>
+</head>
+<body>
+  <h2>CLICK BELOW TO RETURN TO HOME.</h2>
+    <a href=""> <img src="https://img1.picmix.com/output/stamp/normal/6/8/5/4/1494586_fa231.png"> </a>
+    <h1>One day this site will have more functionality, but for now, it is exactly as the text at the top says. Just a place where you can find websites I think are cool and sometimes some videos I like, most of which will probably be music videos. Maybe one day ill add a way to contact me and submit videos for a chance to be on here. June 5th 2024</h1>
 
